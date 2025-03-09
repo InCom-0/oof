@@ -1,2 +1,10 @@
 .vs/
 x64/
+/.idea/
+/.vscode/
+/.cache/
+/.clang-tidy/
+/.build/
+/cmake-build-debug_clang/
+/cmake-build-gcc_debug/
+/build/
